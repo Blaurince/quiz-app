@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "question":  "2 + 2 =",
+    "options": [
+        {"answer": "It will be 5",
+         "isCorrect": false},
+
+         {"answer": "it could 3",
+         "isCorrect": false },
+
+         {"answer": "Maybe 1",
+         "isCorrect": false },
+
+         {"answer": "Fo Sho 4",
+         "isCorrect": true}
+
+        ]
+    },
+
+
+
+
+{"id": "2",
+"question":  "Why are robots so cool?",
+"options": [
+    {"answer": "Because they are ",
+     "isCorrect": true},
+
+     {"answer": "Because why not",
+     "isCorrect": true },
+
+     {"answer": "You suck",
+     "isCorrect": false },
+
+     {"answer": "Because Nephie Likes it",
+     "isCorrect": true}
+
+    ]
+},
+    
+
+
+{"id": "2",
+"question":  "Why are cats so crazy?",
+"options": [
+    {"answer": "Because they are ",
+     "isCorrect": true},
+
+     {"answer": "Because why not",
+     "isCorrect": true },
+
+     {"answer": "They are cute",
+     "isCorrect": false },
+
+     {"answer": "Because Nephie Likes it",
+     "isCorrect": true}
+
+    ]
+},
+   
+
+[
+    {
+      "id": "1",
+      "question":  "5 + 5 =",
+      "options": [
+          {"answer": "It will be 7",
+           "isCorrect": false},
+  
+           {"answer": "it could 2",
+           "isCorrect": false },
+  
+           {"answer": "Maybe 3",
+           "isCorrect": false },
+  
+           {"answer": "Fo Sho 10",
+           "isCorrect": true}
+  
+          ]
+      }
+  
+  ]
+
+]
+  

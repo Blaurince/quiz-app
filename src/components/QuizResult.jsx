@@ -1,0 +1,26 @@
+import { Container, Row, Col, Button } from "react-bootstrap";
+export default function QuizResult ({score, quizLength, handleReset}) {
+
+    return (
+
+        <section>
+            <Container className="quiz-result">
+
+                <Row>
+
+                    <Col>
+                    <h2>Quiz Result</h2>
+                    <p>Your Scored {score} out of {quizLength}.</p>
+                    <Button onClick={handleReset}>Reset</Button>
+                    </Col>
+                </Row>
+            </Container>
+
+
+
+
+        </section>
+    )
+
+
+}
